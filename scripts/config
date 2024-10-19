@@ -1,0 +1,4 @@
+user=node
+host=peer-form.cc
+root_dir=/home/node/workspace/github.com/beenotung/peer-form
+pm2_name="peer-form"
